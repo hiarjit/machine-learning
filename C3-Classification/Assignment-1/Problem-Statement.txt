@@ -1,0 +1,18 @@
+
+
+AIMD hospital is a medical facility that has just hired an intern in the Machine Learning space due to the vast advancements of ML in the medical field. This facility has given the intern the data of 769 patients who have cancer and who have don’t have cancer. These patients have other conditions as well like past pregnancies, diabetes, insulin intake, etc. 
+The doctors are hoping these attributes will help the intern learn & build a model to predict whether a patient is likely to have cancer or not based on certain attributes.
+
+Assuming that you are the intern, you have to build a KNN classifier that will predict whether a patient is susceptible to cancer or not.  
+
+You are expected to perform the following.
+
+	Exploratory Data Analysis on the dataset
+
+	Building the KNN classifier
+
+	Model performance Analysis
+
+	
+Dataset: Cancer Dataset
+You can write to me at sureshkiran.j@wilp.bits-pilani.ac.in in case of any doubts.

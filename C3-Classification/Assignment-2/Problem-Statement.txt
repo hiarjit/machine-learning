@@ -1,0 +1,28 @@
+
+In this Assignment, you will implement two classification machine learning algorithms Logistic Regression & Naive Bayes for the dataset (Liver disease dataset),
+
+You will have 9 marks to implement both. Also, Compare the performance of each Algorithm
+
+Dataset: liver_disease_1.csvPreview the document
+
+The marks distribution is as follows
+
+Import the libraries and Load the dataset and Remove/replace missing values (if any) [1 M]
+
+Split features and labels [0.5 M]
+
+Split train and test data [0.5 M}
+
+Implement the Naïve Bayes classifier using Python
+
+Implement Naïve Bayes Classifier [2 M]
+
+Calculate accuracy measures [1 M]
+
+Implement classification using Logistic Regression using Python
+
+Implement Logistic regression Classifier [2 M]
+
+Calculate accuracy measures [1 M]
+
+Compare the results and accuracies for both the algorithms and share your inferences. [1M]
